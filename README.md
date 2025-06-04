@@ -70,7 +70,7 @@ Business Problem-Solving: Write and execute complex SQL queries to answer critic
 Install Python libraries:
 '''bash
 pip install -r requirements.txt 
-...
+'''
 
 ### Set up your Kaggle API, download the data, and follow the steps to load and analyze.
 
