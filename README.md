@@ -68,10 +68,9 @@ Business Problem-Solving: Write and execute complex SQL queries to answer critic
 
 ### Getting Started
 Install Python libraries:
-'''bash
+'''sql 
 pip install -r requirements.txt 
 '''
-
 ### Set up your Kaggle API, download the data, and follow the steps to load and analyze.
 
 ---
@@ -84,7 +83,7 @@ pip install -r requirements.txt
 - README.md                 # Project documentation
 - requirements.txt          # List of required Python libraries
 - main.py                   # Main script for loading, cleaning, and processing data
-- 
+
 ### Results and Insights
 This section will include your analysis findings:
 Sales Insights: Key categories, branches with highest sales, and preferred payment methods.
@@ -92,10 +91,10 @@ Profitability: Insights into the most profitable product categories and location
 Customer Behavior: Trends in ratings, payment preferences, and peak shopping hours.
 
 ### Future Enhancements
- Possible extensions to this project:
-Integration with a dashboard tool (e.g., Power BI or Tableau) for interactive visualization.
-Additional data sources to enhance analysis depth.
-Automation of the data pipeline for real-time data ingestion and analysis.
+ **Possible extensions to this project**:
+- Integration with a dashboard tool (e.g., Power BI or Tableau) for interactive visualization.
+- Additional data sources to enhance analysis depth.
+- Automation of the data pipeline for real-time data ingestion and analysis.
 
 ### License
 This project is licensed under the MIT License.
